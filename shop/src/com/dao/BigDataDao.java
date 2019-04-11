@@ -9,7 +9,7 @@ import com.model.GroupList;
 import com.tools.DBhelper;
 
 public class BigDataDao {
-	//查询每个星期的销售额
+	//查询每个星期的销售额 123
 	public static HashMap<Integer, Integer> serichOrderByWeekDay() {
 		//键:星期 值:销售额
 		HashMap<Integer,Integer> hashMap=new HashMap<Integer,Integer> ();
